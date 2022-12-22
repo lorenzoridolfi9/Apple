@@ -1,2 +1,2 @@
-# Apple-apple-
+# Apple
 Apple revenue forecast 
