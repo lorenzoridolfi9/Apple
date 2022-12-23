@@ -1,4 +1,4 @@
-# Apple :apple:
+# Apple revenue forecast :apple:
 ### This repository contains the R code notebook and related datasets to analyze the historical series of Apple revenues from 1970 to 2021. Finally, there is also a report outlining the results achieved by the forecast analysis and related personal interpretations.
 
 ### Goal :dart:
